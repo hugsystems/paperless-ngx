@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-07 18:36-0700\n"
-"PO-Revision-Date: 2024-04-08 01:36\n"
+"POT-Creation-Date: 2024-04-19 01:13-0700\n"
+"PO-Revision-Date: 2024-04-19 08:15\n"
 "Last-Translator: \n"
 "Language-Team: Latvian\n"
 "Language: lv_LV\n"
@@ -1204,131 +1204,131 @@ msgstr "Lietotnes logo"
 msgid "paperless application settings"
 msgstr ""
 
-#: paperless/settings.py:666
+#: paperless/settings.py:662
 msgid "English (US)"
 msgstr "Angļu (ASV)"
 
-#: paperless/settings.py:667
+#: paperless/settings.py:663
 msgid "Arabic"
 msgstr "Arābu"
 
-#: paperless/settings.py:668
+#: paperless/settings.py:664
 msgid "Afrikaans"
 msgstr "Āfrikāņu"
 
-#: paperless/settings.py:669
+#: paperless/settings.py:665
 msgid "Belarusian"
 msgstr "Baltkrievu"
 
-#: paperless/settings.py:670
+#: paperless/settings.py:666
 msgid "Bulgarian"
 msgstr "Bulgāru"
 
-#: paperless/settings.py:671
+#: paperless/settings.py:667
 msgid "Catalan"
-msgstr ""
+msgstr "Kataloniešu"
+
+#: paperless/settings.py:668
+msgid "Czech"
+msgstr "Čehu"
+
+#: paperless/settings.py:669
+msgid "Danish"
+msgstr "Dāņu"
+
+#: paperless/settings.py:670
+msgid "German"
+msgstr "Vācu"
+
+#: paperless/settings.py:671
+msgid "Greek"
+msgstr "Grieķu"
 
 #: paperless/settings.py:672
-msgid "Czech"
-msgstr ""
+msgid "English (GB)"
+msgstr "Angļu (ASV)"
 
 #: paperless/settings.py:673
-msgid "Danish"
-msgstr ""
+msgid "Spanish"
+msgstr "Spāņu"
 
 #: paperless/settings.py:674
-msgid "German"
-msgstr ""
+msgid "Finnish"
+msgstr "Somu"
 
 #: paperless/settings.py:675
-msgid "Greek"
-msgstr ""
+msgid "French"
+msgstr "Franču"
 
 #: paperless/settings.py:676
-msgid "English (GB)"
-msgstr ""
+msgid "Hungarian"
+msgstr "Ungāru"
 
 #: paperless/settings.py:677
-msgid "Spanish"
-msgstr ""
+msgid "Italian"
+msgstr "Itāļu"
 
 #: paperless/settings.py:678
-msgid "Finnish"
-msgstr ""
+msgid "Japanese"
+msgstr "Japāņu"
 
 #: paperless/settings.py:679
-msgid "French"
-msgstr ""
+msgid "Luxembourgish"
+msgstr "Luksemburgiešu"
 
 #: paperless/settings.py:680
-msgid "Hungarian"
-msgstr ""
+msgid "Norwegian"
+msgstr "Norvēģu"
 
 #: paperless/settings.py:681
-msgid "Italian"
-msgstr ""
+msgid "Dutch"
+msgstr "Holandiešu"
 
 #: paperless/settings.py:682
-msgid "Japanese"
-msgstr ""
+msgid "Polish"
+msgstr "Poļu"
 
 #: paperless/settings.py:683
-msgid "Luxembourgish"
-msgstr ""
+msgid "Portuguese (Brazil)"
+msgstr "Portugāļu (Brazīlija)"
 
 #: paperless/settings.py:684
-msgid "Norwegian"
-msgstr ""
+msgid "Portuguese"
+msgstr "Portugāļu"
 
 #: paperless/settings.py:685
-msgid "Dutch"
-msgstr ""
+msgid "Romanian"
+msgstr "Rumāņu"
 
 #: paperless/settings.py:686
-msgid "Polish"
-msgstr ""
-
-#: paperless/settings.py:687
-msgid "Portuguese (Brazil)"
-msgstr ""
-
-#: paperless/settings.py:688
-msgid "Portuguese"
-msgstr ""
-
-#: paperless/settings.py:689
-msgid "Romanian"
-msgstr ""
-
-#: paperless/settings.py:690
 msgid "Russian"
 msgstr "Krievu"
 
-#: paperless/settings.py:691
+#: paperless/settings.py:687
 msgid "Slovak"
 msgstr "Slovāku"
 
-#: paperless/settings.py:692
+#: paperless/settings.py:688
 msgid "Slovenian"
 msgstr "Slovēņu"
 
-#: paperless/settings.py:693
+#: paperless/settings.py:689
 msgid "Serbian"
 msgstr "Sērbu"
 
-#: paperless/settings.py:694
+#: paperless/settings.py:690
 msgid "Swedish"
 msgstr "Zviedru"
 
-#: paperless/settings.py:695
+#: paperless/settings.py:691
 msgid "Turkish"
 msgstr "Turku"
 
-#: paperless/settings.py:696
+#: paperless/settings.py:692
 msgid "Ukrainian"
 msgstr "Ukraiņu"
 
-#: paperless/settings.py:697
+#: paperless/settings.py:693
 msgid "Chinese Simplified"
 msgstr "Ķīniešu (vienkāršota)"
 
@@ -1562,7 +1562,7 @@ msgstr ""
 
 #: paperless_mail/models.py:189
 msgid "action"
-msgstr ""
+msgstr "darbība"
 
 #: paperless_mail/models.py:195
 msgid "action parameter"
@@ -1574,7 +1574,7 @@ msgstr ""
 
 #: paperless_mail/models.py:208
 msgid "assign title from"
-msgstr ""
+msgstr "piešķirt virsrakstu"
 
 #: paperless_mail/models.py:228
 msgid "assign correspondent from"
@@ -1586,15 +1586,15 @@ msgstr ""
 
 #: paperless_mail/models.py:268
 msgid "uid"
-msgstr ""
+msgstr "uid"
 
 #: paperless_mail/models.py:276
 msgid "subject"
-msgstr ""
+msgstr "temats"
 
 #: paperless_mail/models.py:284
 msgid "received"
-msgstr ""
+msgstr "saņemts"
 
 #: paperless_mail/models.py:291
 msgid "processed"
