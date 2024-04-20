@@ -98,12 +98,12 @@ class Migration(migrations.Migration):
                 name="documents_tag_unique_name_owner",
             ),
         ),
-        migrations.AddConstraint(
+        """migrations.AddConstraint(
             model_name="tag",
             constraint=models.UniqueConstraint(
                 condition=models.Q(("owner__isnull", True)),
                 fields=("name",),
                 name="documents_tag_name_uniq",
             ),
-        ),
+        ),"""
     ]
