@@ -105,5 +105,5 @@ class Migration(migrations.Migration):
                 fields=("name",),
                 name="documents_tag_name_uniq",
             ),
-        ),"""
+        ),""",
     ]
